@@ -1,10 +1,10 @@
 {
   "name": "Bumper Blast · Sky Party Arcade",
   "short_name": "Bumper Blast",
-  "description": "An original 3D party arcade: Bonk Bowl, Spindle Run and Party Mode for 1–4 players. Plays fully offline.",
-  "id": "./",
-  "start_url": "./index.html",
-  "scope": "./",
+  "description": "An original 3D party arcade with 15 minigames and Party Mode for 1-4 players. Plays fully offline.",
+  "id": "/bumper-blast/",
+  "start_url": "/bumper-blast/index.html",
+  "scope": "/bumper-blast/",
   "display": "fullscreen",
   "display_override": [
     "fullscreen",
